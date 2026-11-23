@@ -20,6 +20,10 @@ from bs4 import BeautifulSoup
 
 URL = "https://bdt.spb.ru/afisha/"
 SITE = "https://bdt.spb.ru"
+SOURCE = "bdt_4"
+# Момент, когда страница была скачана. Один на весь запуск, поэтому
+# считаем его один раз при импорте модуля.
+COLLECTED_AT = datetime.now().astimezone().isoformat(timespec="seconds")
 
 
 @dataclass
@@ -32,6 +36,8 @@ class Event:
     url: str                # страница спектакля на сайте театра
     ticket_url: str | None  # ссылка на покупку билетов, если есть
     tickets: str            # link_available | unknown | none
+    source: str = SOURCE    # id источника, часть ключа события
+    collected_at: str = COLLECTED_AT  # когда скачана страница (ISO 8601)
 
 
 def clean(text):

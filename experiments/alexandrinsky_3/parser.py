@@ -17,6 +17,11 @@ import httpx
 from bs4 import BeautifulSoup
 
 URL = "https://alexandrinsky.ru/afisha-i-bilety/"
+SOURCE = "alexandrinsky_3"
+# Момент, когда страница была скачана. Один на весь запуск, поэтому
+# считаем его один раз при импорте модуля.
+COLLECTED_AT = datetime.now().astimezone().isoformat(timespec="seconds")
+
 
 # На сайте месяц написан словом: "19 ноя 18:00".
 # Берём первые 3 буквы.
@@ -37,6 +42,8 @@ class Event:
     url: str                # страница спектакля на сайте театра
     ticket_url: str | None  # ссылка на покупку билетов, если есть
     tickets: str            # link_available | unknown | none
+    source: str = SOURCE    # id источника, часть ключа события
+    collected_at: str = COLLECTED_AT  # когда скачана страница (ISO 8601)
 
 
 def clean(text):
@@ -78,8 +85,8 @@ def count_events(tag):
 
 
 def find_card(h4):
-    """Находит карточку спектакля вокруг заголовка.
-
+    """
+    Находит карточку спектакля вокруг заголовка.
     Идём вверх по родителям, пока внутри нет других спектаклей.
     """
     card = h4
@@ -193,7 +200,7 @@ def parse_alex(soup):
                 Event(
                     title, starts_at, venue, description, url, ticket, status
                 )
-                )
+            )
     return events
 
 

@@ -1,0 +1,79 @@
+[
+  {
+    "title": "«Салют Джанго Рейнхардту!». Джаз-мануш",
+    "starts_at": "2026-11-26T16:00:00+00:00",
+    "venue": "Большой зал",
+    "description": "Скидка 50% по промокоду JAZZFRIDAY Народный артист России Давид Голощёкин — электроскрипка, заслуженный артист Азербайджана Гасан Багиров — гитара, заслуженный артист Татарстана Ильдар Казаханов — гитара, Вадим Михайлов — контрабас, Юлия Касьян — вокал.",
+    "url": "https://jazz-hall.ru/afisha/3113/",
+    "ticket_url": null,
+    "tickets": "link_available",
+    "source": "jazz_hall_19",
+    "collected_at": "2026-11-26T23:11:46+05:00"
+  },
+  {
+    "title": "«От свинга до босса-новы»",
+    "starts_at": "2026-11-27T16:00:00+00:00",
+    "venue": "Большой зал",
+    "description": "Скидка 50% по промокоду JAZZFRIDAY Заслуженная артистка России Эльвира Трафова (вокал) и ансамбль Филармонии джазовой музыки",
+    "url": "https://jazz-hall.ru/afisha/3109/",
+    "ticket_url": null,
+    "tickets": "link_available",
+    "source": "jazz_hall_19",
+    "collected_at": "2026-11-26T23:11:46+05:00"
+  },
+  {
+    "title": "«Парад на улице Бурбонов»",
+    "starts_at": "2026-11-28T16:00:00+00:00",
+    "venue": "Большой зал , Джаз-дансинг",
+    "description": "Ленинградский диксиленд под управлением заслуженного артиста России Олега Кувайцева. Виктория Урусова — вокал",
+    "url": "https://jazz-hall.ru/afisha/3111/",
+    "ticket_url": null,
+    "tickets": "link_available",
+    "source": "jazz_hall_19",
+    "collected_at": "2026-11-26T23:11:46+05:00"
+  },
+  {
+    "title": "«Джаз на виниле c Александром Михайловским»",
+    "starts_at": "2026-11-28T17:00:00+00:00",
+    "venue": "Малый зал",
+    "description": null,
+    "url": "https://jazz-hall.ru/afisha/3096/",
+    "ticket_url": null,
+    "tickets": "link_available",
+    "source": "jazz_hall_19",
+    "collected_at": "2026-11-26T23:11:46+05:00"
+  },
+  {
+    "title": "«Джаз для дошкольников»",
+    "starts_at": "2026-11-29T09:00:00+00:00",
+    "venue": "Большой зал",
+    "description": "Утренняя программа Ленинградский диксиленд под управлением заслуженного артиста России Олега Кувайцева",
+    "url": "https://jazz-hall.ru/afisha/3093/",
+    "ticket_url": null,
+    "tickets": "link_available",
+    "source": "jazz_hall_19",
+    "collected_at": "2026-11-26T23:11:46+05:00"
+  },
+  {
+    "title": "Вечер блюза",
+    "starts_at": "2026-11-29T16:00:00+00:00",
+    "venue": "Большой зал , Джаз-дансинг",
+    "description": "Атомик Джем Бэнд",
+    "url": "https://jazz-hall.ru/afisha/3086/",
+    "ticket_url": null,
+    "tickets": "link_available",
+    "source": "jazz_hall_19",
+    "collected_at": "2026-11-26T23:11:46+05:00"
+  },
+  {
+    "title": "«Золотой голос ХХ века». Посвящение Фрэнку Синатре",
+    "starts_at": "2026-11-30T16:00:00+00:00",
+    "venue": "Концертный зал «Колизей-Арена»",
+    "description": "Оркестр Филармонии джазовой музыки. Солисты: Дмитрий Носков (вокал, Москва), Сергей Архипов (вокал, Москва). Ведущий — Александр Михайловский",
+    "url": "https://jazz-hall.ru/afisha/3118/",
+    "ticket_url": null,
+    "tickets": "link_available",
+    "source": "jazz_hall_19",
+    "collected_at": "2026-11-26T23:11:46+05:00"
+  }
+]

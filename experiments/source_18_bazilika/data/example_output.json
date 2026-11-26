@@ -1,0 +1,22 @@
+[
+  {
+    "image_url": "https://bazilika-catherine.ru/uploads/s/x/i/v/xiv96jgytcmi/img/full_6AH2tyjJ.jpg",
+    "image_hash": "sha256:e5ee80515d640895188633154f552b309ed2d21891f6f201ebfa1d75e4fc9d22",
+    "venue": "Базилика Св. Екатерины Александрийской",
+    "url": "https://bazilika-catherine.ru/concerts/",
+    "ticket_url": null,
+    "tickets": "unknown",
+    "source": "bazilika_catherine_18",
+    "collected_at": "2026-11-26T23:42:18+05:00"
+  },
+  {
+    "image_url": "https://bazilika-catherine.ru/uploads/s/x/i/v/xiv96jgytcmi/img/full_YX7V9wza.jpg",
+    "image_hash": "sha256:f4ad2ce9baa4903b5983eff1d48ee0185ba4bb7b94885121d78da0b43948443b",
+    "venue": "Базилика Св. Екатерины Александрийской",
+    "url": "https://bazilika-catherine.ru/concerts/",
+    "ticket_url": null,
+    "tickets": "unknown",
+    "source": "bazilika_catherine_18",
+    "collected_at": "2026-11-26T23:42:18+05:00"
+  }
+]

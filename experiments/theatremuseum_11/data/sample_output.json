@@ -1,0 +1,137 @@
+[
+  {
+    "external_id": "78b089fb7b02ce0d",
+    "source": "theatremuseum_11",
+    "title": "Лаборатория «Продлёнка в музее»",
+    "date_time": "25.10.2026 - 06.12.2026",
+    "venue": "Театральный музей",
+    "description": "Музейно-театральная лаборатория для подростков",
+    "url": "https://theatremuseum.ru/event/prodlenka-TM",
+    "tickets_info": "Билеты: http://tickets.theatremuseum.ru/",
+    "tags": [
+      "#Мастер-классы"
+    ]
+  },
+  {
+    "external_id": "cad5f1398156d721",
+    "source": "theatremuseum_11",
+    "title": "Видеолекторий Театрального музея",
+    "date_time": "01.11.2026 - 28.11.2026",
+    "venue": "Театральный музей",
+    "description": "Программа встреч в ноябре",
+    "url": "https://theatremuseum.ru/event/videolectory_TM",
+    "tickets_info": "Билеты: http://tickets.theatremuseum.ru/",
+    "tags": [
+      "#Лекции"
+    ]
+  },
+  {
+    "external_id": "03dc001ad9d801e6",
+    "source": "theatremuseum_11",
+    "title": "Шедевры музыкальной коллекции",
+    "date_time": "25.11.2026 - 30.11.2026",
+    "venue": "Шереметевский дворец — Музей музыки",
+    "description": "Тематическая экскурсия познакомит с самыми оригинальными и привлекательными музыкальными инструментами из собрания Музея",
+    "url": "https://theatremuseum.ru/event/masterpiece",
+    "tickets_info": "Билеты: http://tickets.theatremuseum.ru/",
+    "tags": [
+      "#Экскурсии",
+      "#Пушкинская карта"
+    ]
+  },
+  {
+    "external_id": "9364b9bb2d572e00",
+    "source": "theatremuseum_11",
+    "title": "Шереметевский дворец в истории Санкт-Петербурга",
+    "date_time": "25.11.2026 - 30.11.2026",
+    "venue": "Шереметевский дворец — Музей музыки",
+    "description": "Обзорная экскурсия пройдет по парадным залам дворца, познакомит с историческими интерьерами, разнообразием декоративного убранства и судьбами владельцев.",
+    "url": "https://theatremuseum.ru/event/palace_history",
+    "tickets_info": "Билеты: http://tickets.theatremuseum.ru/",
+    "tags": [
+      "#Экскурсии"
+    ]
+  },
+  {
+    "external_id": "5071588254b065ad",
+    "source": "theatremuseum_11",
+    "title": "Обзорная экскурсия по Музею-квартире Н. А. Римского-Корсакова",
+    "date_time": "25.11.2026 - 27.12.2026",
+    "venue": "Музей-квартира Н. А. Римского-Корсакова",
+    "description": "О жизни и творчестве композитора",
+    "url": "https://theatremuseum.ru/event/mainexcursion-RK",
+    "tickets_info": "Билеты: http://tickets.theatremuseum.ru/",
+    "tags": [
+      "#Экскурсии",
+      "#Пушкинская карта"
+    ]
+  },
+  {
+    "external_id": "0fe84748235e44af",
+    "source": "theatremuseum_11",
+    "title": "Экскурсия «Фонтанный дом – родовое гнездо графов Шереметевых»",
+    "date_time": "25.11.2026 - 28.11.2026",
+    "venue": "Шереметевский дворец — Музей музыки",
+    "description": "Экскурсия погружает в историю дома графов Шереметевых, в историю семьи, в историю традиций – музыкальных, театральных, литературных и прочих, связанных с дворцом на Фонтанке и с его хозяевами.",
+    "url": "https://theatremuseum.ru/event/fontannyy_dom",
+    "tickets_info": "Билеты: http://tickets.theatremuseum.ru/",
+    "tags": [
+      "#Экскурсии"
+    ]
+  },
+  {
+    "external_id": "adf7aaed707011a3",
+    "source": "theatremuseum_11",
+    "title": "Музыкальные среды в доме Самойлова",
+    "date_time": "25.11.2026 - 23.12.2026",
+    "venue": "Музей-квартира актеров Самойловых",
+    "description": "Концерт и экскурсия по музею",
+    "url": "https://theatremuseum.ru/event/Samoilov-music-wednesday",
+    "tickets_info": "Билеты: http://tickets.theatremuseum.ru/",
+    "tags": [
+      "#Экскурсии",
+      "#Концерты",
+      "#Пушкинская карта"
+    ]
+  },
+  {
+    "external_id": "32e079e6307c3344",
+    "source": "theatremuseum_11",
+    "title": "Звучащий мир музыкальных инструментов",
+    "date_time": "26.11.2026 - 28.11.2026",
+    "venue": "Шереметевский дворец — Музей музыки",
+    "description": "Обзорная экскурсия по обновленной музыкальной экспозиции музея «Музыкальные инструменты народов мира»",
+    "url": "https://theatremuseum.ru/event/mir-instrumentov",
+    "tickets_info": "Билеты: http://tickets.theatremuseum.ru/",
+    "tags": [
+      "#Экскурсии"
+    ]
+  },
+  {
+    "external_id": "5462c3b05c89fa7e",
+    "source": "theatremuseum_11",
+    "title": "Обзорная экскурсия по Музею актёров Самойловых",
+    "date_time": "26.11.2026 - 10.12.2026",
+    "venue": "Музей-квартира актеров Самойловых",
+    "description": "Экскурсия по мемориальной экспозиции и постоянной выставке «Звёзды петербургского балета»",
+    "url": "https://theatremuseum.ru/event/1234567899876546789pmvachsitlbtrorpro554789854",
+    "tickets_info": "Билеты: http://tickets.theatremuseum.ru/",
+    "tags": [
+      "#Экскурсии",
+      "#Пушкинская карта"
+    ]
+  },
+  {
+    "external_id": "118b29a9687615ac",
+    "source": "theatremuseum_11",
+    "title": "Лекция Никиты Буглака «Наш авангард»",
+    "date_time": "27.11.2026 19:00 - 20:30",
+    "venue": "Театральный музей",
+    "description": "Поговорим о работах Малевича, Розановой, Кандинского, Татлина, Ларионова, Гончаровой и многих других",
+    "url": "https://theatremuseum.ru/event/27112026-lectureTM",
+    "tickets_info": "Билеты: http://tickets.theatremuseum.ru/",
+    "tags": [
+      "#Лекции"
+    ]
+  }
+]
